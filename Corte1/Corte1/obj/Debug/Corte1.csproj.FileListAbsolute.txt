@@ -1,0 +1,10 @@
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\bin\Debug\Corte1.exe.config
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\bin\Debug\Corte1.exe
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\bin\Debug\Corte1.pdb
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\obj\Debug\Corte1.csproj.AssemblyReference.cache
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\obj\Debug\Corte1.Form1.resources
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\obj\Debug\Corte1.Properties.Resources.resources
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\obj\Debug\Corte1.csproj.GenerateResource.cache
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\obj\Debug\Corte1.csproj.CoreCompileInputs.cache
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\obj\Debug\Corte1.exe
+C:\Users\lacay\OneDrive\Documentos\MyPE\Corte1\Corte1\obj\Debug\Corte1.pdb
